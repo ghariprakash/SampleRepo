@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace SampleProject
 {
-    class Program
+    class ReadMe
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hi");
-            Console.ReadLine();
-        }
     }
 }
